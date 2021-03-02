@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there, wellcome to my github page 👋
 
 ## My github Status
 ![João Canto's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpcanto&show_icons=true&theme=synthwave)
