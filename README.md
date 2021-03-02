@@ -1,9 +1,9 @@
 # Hello there, wellcome to my github page 📝
 
 ## About me
-in love about technology and automation, I work in the development of web and mobile applications using recent frameworks and using design standards.
+in love with technology and automation, I work in the development of web and mobile applications using recent frameworks and using design standards.
 
-Some of the main technologies that I have the habit of using are:
+Some of the main technologies that I have the habit of using:
 
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> ReactJs
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> VueJs
