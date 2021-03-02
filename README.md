@@ -1,4 +1,4 @@
-# Hello there, wellcome to my github page 👋
+# Hello there, wellcome to my github page 📝
 
 ## About me
 in love about technology and automation, I work in the development of web and mobile applications using recent frameworks and using design standards.
