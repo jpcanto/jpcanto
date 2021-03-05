@@ -5,8 +5,7 @@ in love with technology and automation, I work in the development of web and mob
 
 ## Socials
 [![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github)](https://github.com/jpcanto)
-[![Linkdin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedIn![image](https://user-images.githubusercontent.com/19193592/110153204-8183f100-7dc1-11eb-87ae-eebd9a37d0aa.png)
-)](https://www.linkedin.com/in/joao-pedro-canto-9b2992116/)
+[![Linkdin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joao-pedro-canto-9b2992116/)
 
 Some of the main technologies that I have the habit of use:
 
